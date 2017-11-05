@@ -1,4 +1,6 @@
-## My name is Ivy Chen 
+## Nuo Ivy Chen
+
+I am a mechanical engineering and german major at Temple University.
 
 [//]: # You can use the [editor on GitHub](https://github.com/nuoivychen/nuoivychen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
